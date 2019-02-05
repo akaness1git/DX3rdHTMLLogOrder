@@ -1,7 +1,7 @@
 # DX3rdHTMLLogOrder
 使い方
 1.
- DX3rdHTMLLogOrder.exeを叩く
+DX3rdHTMLLogOrder.exeを叩く
 2.
  [file選択]ボタンからhtmlファイルを選ぶ、番号の若い順からちゃんと選ぶこと
  今んとこ最大3個まで
